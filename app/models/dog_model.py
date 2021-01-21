@@ -1,4 +1,3 @@
-from __future__ import annotations
 from app.models import db, ma, col
 from marshmallow import fields
 from datetime import datetime
